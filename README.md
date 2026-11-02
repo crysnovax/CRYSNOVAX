@@ -34,13 +34,15 @@ About Me
 
 ```
 const crysnovax = {
-    name: "CRYSNOVAX",
+    name: "Crystal Levi",
     role: "Full Stack Developer & Bot Architect",
     location: "🌍 Global — Edge Network",
     motto: "Build tools people actually use. My code runs 24/7 so yours doesn't have to.",
     currentProject: {
         name: "CODY AI",
-        repo: "github.com/crysnovax/CODY",
+        alias: "CRYSNOVA AI",
+        repoA: "github.com/crysnovax/CODY",
+        repoB: "github.com/crysnovax/CRYSNOVA_AI",
         tagline: "The next-gen AI bot ecosystem for WhatsApp & Telegram",
         status: "Active Development 🔥",
         users: "4000+ Bots"
