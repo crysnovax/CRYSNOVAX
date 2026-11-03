@@ -23,6 +23,13 @@ Hi, I'm CRYSNOVAX
 <img src="https://img.shields.io/badge/Focus-Bot%20Ecosystem-0a0f0a?style=for-the-badge&color=10b981" />
 </p>
 
+<p align="center">
+<b>Visitor's Count</b><br/>
+<img src="https://count.getloli.com/get/@crysnovax?theme=moebooru" alt="visitor count" />
+<br/>
+<sub>Anime counter - same style as itsliaaa</sub>
+</p>
+
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
@@ -105,10 +112,10 @@ Built for speed, stability & scale on Cloudflare Edge ⚡
 
 <h2 align="center">🤖 Telegram Bots I Own</h2>
 
-Bot	Description	Status	Link
-@CODYEBOT	Cody AI — Main AI Version	🟢 Live	t.me/CODYEBOT
-@gistingBot	Premium Emotional Support Bot	🟢 Live	t.me/gistingBot
-@dllogbot	Universal Social Media Downloader	⚡ Fast	t.me/dllogbot
+Bot Description Status Link
+@CODYEBOT Cody AI — Main AI Version 🟢 Live t.me/CODYEBOT
+@gistingBot Premium Emotional Support Bot 🟢 Live t.me/gistingBot
+@dllogbot Universal Social Media Downloader ⚡ Fast t.me/dllogbot
 <h2 align="center">📦 NPM Packages — Powers 4000+ Bots</h2>
 
 <p align="center">
@@ -118,11 +125,11 @@ Bot	Description	Status	Link
 <a href="https://www.npmjs.com/package/cdloger"><img src="https://img.shields.io/npm/v/cdloger?label=cdloger&color=10b981&style=for-the-badge" /></a>
 </p>
 
-Package	What it does	Downloads
-plogme	Premium WhatsApp Bot API — Custom Baileys Fork	npm
-tgplus	Telegram Bot API Plus — Rich messages made easy	npm
-social-dl	Very reliable no API key multi-platform scrapper	npm
-cdloger	Custom alternative to PM2 with full commands & custom logging	npm
+Package What it does Downloads
+plogme Premium WhatsApp Bot API — Custom Baileys Fork npm
+tgplus Telegram Bot API Plus — Rich messages made easy npm
+social-dl Very reliable no API key multi-platform scrapper npm
+cdloger Custom alternative to PM2 with full commands & custom logging npm
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
