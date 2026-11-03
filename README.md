@@ -27,7 +27,7 @@ Hi, I'm CRYSNOVAX
 <b>Visitor's Count</b><br/>
 <img src="https://count.getloli.com/get/@crysnovax?theme=moebooru" alt="visitor count" />
 <br/>
-<sub>Anime counter - same style as itsliaaa</sub>
+<sub>🫧</sub>
 </p>
 
 <div align="center">
